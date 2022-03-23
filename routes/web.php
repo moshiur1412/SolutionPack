@@ -13,6 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+class Service
+{
+    //
+}
+ 
+Route::get('/', function (Service $service) {
+    die(get_class($service));
+});
+
 Route::get('/', function () {
 	// dd(config());
 	    return view('welcome');
