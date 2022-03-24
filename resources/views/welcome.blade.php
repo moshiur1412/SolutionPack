@@ -9,6 +9,8 @@
 	<img src="{{URL::asset('/image/bismillah.jpg')}}" alt="Bismillah" height="27%" width="27%">
 	<h1>I Seek Refuge with Allah from the Accursed Shaitan</h1>
 	<h1>In the name of Allah, The Most Gracious and The Most Merciful </h1>
+	<hr>
+	<hr>
 	<h2>786</h2>
 </body>
 </html>
